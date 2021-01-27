@@ -9,8 +9,8 @@ StopHotkeyMod=0
 RunOnce=1
 EnableWindow=
 MacroID=795acc8c-6546-4060-bb6a-6b1bdcb8a9cf
-Description=Auto Send QYWX Message.3
-Enable=0
+Description=Auto Send WeWork Message.3 自动发送企业微信消息.带界面版本
+Enable=1
 AutoRun=0
 [Repeat]
 Type=0
@@ -23,23 +23,24 @@ SetupOCXFile=
 [Comment]
 
 [UIPackage]
-UEsDBBQAAgAIACwXOlK+Kb8xYhQAAAgiAQAJABEAVUlQYWNrYWdlVVQNAAcihQ9gIoUPYCKFD2DtXQl4VdW1XidhJoRBQAZREAEFBMIgIoOQyCRhkDAItsYkBIgkuTG5Aazte9bZ1ul1svMrqNWq7UMrqCiiVSwPK5OK1bZPaa1tnxNKq1QF+q977iWHSOxd+yzu4mq23//tEHPOf/Y+++y9//Xvs08m+Wn7tvavrrqv226ql8ZRJh042JKaBX6XAXiJf7Tz/50JHDh48GDi15cDBxtT2qT9QBPcszMAvtdNgeZAS6AF0ApoA7QGsoBs/9ZTW6A9cBzQAegIdAY6AccDXYEuQDfgBKA70AM4CTgR6An0BnoBJwOnAH2BPkA/4DTgVKA/MBAYAJwODAEGAYOBHGAYMBQYDowERgBnAmXAWcAoYDQwFhgTa9dE44GzgQlAHpALnANMBiYCk4ApwLnAVGAaMB3IB2YAs4CZwHlAATAbmAPMA+YC84EFwPnAQuALwAXAF4FC4ELgIqAEKAKKgUXAYqAUWAJcDCwFlsWfrwrk5UAlUAVEgEuAKFAN1AC1wApgObAS+BJwKXAZ8BXgy8B/AF8F/hO4InbtEfwXxf2YiHNHca5LSZI6o8Uk2pL3b/72J5Szd9reXR73GY/P8383FzU8hNxTC/K8BP/XGvibW14aEuNN8Af/Xx7uXH6IK2gV4G/6b/gTefD/zUF9V+Guz0BLqIjdfVnqQBkx/vbxfjfZ45rEc25bjfj8YlKkuiLE40fzS+dHqpcVlFYucjuTR+FS2OPDpqf37ly7dfX2Tds+2rZ68/oHVz98+2OvSI4XPLJH5XjXfqeu/8s4bL6X7D3Ljv/Mo04RRsByx2vIRv/Xmvx5SrL8GYH+bx5mCjWA6xW0cyh/ZoB/NliLMPrPRD2UC8feRP+fFT9nsvxNAvxzwL8yNotwvv+etPw8TnaM/5yH2Uc5UO14JR0d+JsFyl/Hn4v7UBKbbwn5Y/PltoL6b17v/peErH+en7cQ8Lcgfw4fTA+hAe227kwdUnNj/vePXOexmpxe0LOgqLKmZ0Fpddnio8Tf554LQx2/ED1PNfqf0piKkCfufzvFn6lk21/LQPvPx7Mnf+oOb//t4udLlr/VEZ//AlzHUtSDbDTsguc/oYGT5W8d4J+A2X9VbAyoBipxDbJRqDPK35L88TRZ/qwA/ySUvTJc/yMe/7i/GnOo/OUYfZfgGrjeK136fzF/9mH3vwj1H8U1cD3kxu5DYiSoaxsNp1NR/52pLuaVDH/bAH9u7Pz+85cM3xHan9dRyN8uwB+2/wg7/wybplZW1UZzIytdjy/j4wtLV5aUljsdn+76ZQ5afjQ293VpfbH+R/z8tQ+0v1ngXwn28lgES56yHfg71OPn+Vctyu0SheniwB+Ml/vxpxzn+8fxJ9YzHBvt1sDfpCL+1JeSH394vGwR/9lCf3J/2Tr+s4b+7El+XDtZ/k6kqj89jqH3E/B3Jl392Z38WH+y/MeTrf7ka21+6PkLrT/F7a8r6epP9ldOEdR/twD/ltc2v7HxPff+J2wKO3+4m3y/ZUym739Ik/X4m2nMrxF/YP+uh6D9dae6+IOC/hQ/fyeQrv7sE3+mk+XvQbr6kz3S0wT8J5Ku/mSftreA/ySy1Z89yVZ/9qLg/LMI438NrYjrQGnq4MB/coD/nXrH3BLvEDPxWG9dvfmtHZvWv0yf4RRW//ZfuzTU8d1XzTEt/3SMmuWx+Ec+UCmeg3L8nfuTgYLnv3eg/c2ItfsKPAXlzvEPafs/JcA/BXzLnaMvfv83gGTxlz71+r8S3IOaFOrvvgF+HnWqY8zl8ejX0e//+lFw/GP9O9S5/QbXXzS0iiMV+neMoP3zeNn0UPtPvf7luUJiXV9+UbFj5CtwfAj5kO7xsx2rnn9302u7npzIEcTb1ouPt46/asQ/eO3gCEH770+68Q9e9zdOwD+AdOMf3PwHCfgHkm38g2OFbeM/W/jvg0g3/sGjx1mC+h9Muv47rzcdJuAfQrb6NydQfr4OXqd6C/nrRqUpg2yTdfwkrH5qZnz9GvGP0fFnKtn2N5RU4x+x/mesgH8Y6cY/eO35KAH/cLKNf/BYbRn/OIOC459f7zW4C0UxD052DS7+28jD7n8t+CJofWX0Jbf5v5j/TKqvf4aFuP+ex34KX3luA3/zafonbMqtjUYjle7HF8eOL4xUlVY6mfDprh8eeG/j3WGODzv/19K/kvbPfWVi3LPQvzxXTMy/NPQPvys0mZLv/0eT7frjMaSrf/gdqfGC8o8lW/0zjo40/0id/jmbdPUPv7uWL6j/8aS3/mtypv/e262Z5HQXm5JtstYPbxv7Lxr6l9+TnChofxNIVf96M8h/jzNZ/lzS9X+nx8uULH8e6fq/s8h/BzVZ/nNIV//w+7LTBPwTyVb/8PUm9I/F+sPJpOp/ifmnBPgHrwvnXw7faOt/qvgX7vZT2usPDf9T2v6mUnD9A2t+XgFRilFAfg3dHNr/uaS6/tdL7AXgvv53eIj+r87/nNfA36TC/ywWlJ/HCkv/k+fKCf2pof8S+zskyz+ddP0v3ldikYB/Bunqv/nk73+RLP9MstV/s6ju/WML/Xce6eo/9m8uEtT/7AA/+9f3v/TiB0/dtmWDg31t7l+zjuD1pOxfjXI43tp/+Sys/+UWsEDQ/grI1v+cQ7r6j/fwmSso/1zS979KBPzzSFf/8R5HhQL++WSr/7i/tPS/FpCt/7WQ9Nb/WvefYdOs6siS6tKamtwit/6nKn58YU1p5SKH4631o4X/eQHV9z9HhHj+PY/HE34BuKFIRCr0j6T8rBcS7x9a6B/WC23iP2voH7Z/eeunZPkvJF39EyHZ+utC0tU/vNfgYkH5LyJb/XPA+qX9QNqzZ0+o49k8z/d8/+lih87Qev8Y6/m/hf4tIl39y3tlVguev2LSXf/J+3EuE/CXkK3+WUS6+oedkyWC8peSrv/F7/1GBfyLSVf/sP9wiYB/CdnqH54nJfRP2P2rws4/w8aPrONPKv6T+/K/0PXPvU9ZXHUWHdoHSfT8xfr/FYL2X0a6+x8tJ9n872IKzj/Zea1N6f43y47In0uTU+R/lVN9/XVGiP6nzn+6rIG/+bT9l7X017WC9sdaxdJ/4udL03/i/bwvF5Q/Qrr6i/cRv17AX0W6+ov3Nb9UwH8J2eqvarL1n2oC5bdef/Dg6mee5b2TN+xbtzld/SfWn+w/uejPFsb1r6G/+NsCVwuevyjp6q8ryf+uQbL8tWSrv5aTrv66hvxvPSTLv4L0/afrBPwrSVd/8bcsrhLwX0q2+ovvlaX/dFmg/I3vT9qmvEhFcSTE/qUlfHxhRWSRowq18B+/TLbv332F6uufkSGef8/j9zleAm5s4G8Suudo6Z/vk0z/8lhpuf8m99ea+29+E/k3KPn+/3LS1T/fEtb/V0lX/9yE/OuC8l9Bjd//aYSPdF+/HjZp7D/K+6lu9/z3uqWppXH5teIf3yPX9e868Y8fC/ivJF3/8Wbktwr4ryJd/ftt8uMPyfJfTbb69xrS1b/fRX6DoPzXkq7/+EPkPxDwX0e6+ve/kH9HwH89fXb0XyZlbbiLP7zmhxGzd6x5YWfdPzs8tG/tHQ+9/9yTj9yZ+JXy9af7/qEW8Q/+Tmci/jEV3PzM1TjyZznw81w5sWVhQezdT78PLk3R/rs3kO3+pzeS7v6nPyKZ/rmJbPc/vTnAPxXs/AS4sbvF326h+vEHl5lj4vmr818b6ts+Lf4Qtv9SWf/g/vpj+n8/dM+WR3lo2r7dxf0Kf/+0/PdfUPLzD56vWPrvHCvS9N/vQn6noPzfJN3408+QrxHwf4t040+3xfqY5Pm/Tbb+O8+Vs+I/W/jvt5Ku/rwd+b2C+v9ugF/D/07oz1863T/b9Hn3vzTiDxwDu0PQ/r5HtvGH75Nu/OHnyFcJyv8D0vff/0fA/0PSjT/8FPk9Av4fka3/zrFCS//9v8n2/c+fBPitk873O2uiRdXR8rJK+Qwq3fXD0JDHW/jvq6i+/h3lfP2sf/l5+jXwQIPtPeeorz9+XND/sU639N95vp7Y/19D/7BwfVhQ/ttJV/88gvwJAf8dpKt/1iK/X8D/U7LVP3cG+i2L71/eRbr6Zx3yxwT1/zPS9d8eRf6ggP9usp3/3kN647+Gf87xCPbP73M4vjXZpnTXjxr6ZyP52j/Z9ncv6fqvTyF/UsD/c9LVP79CvkHA/wuy1T+sFS31zxqy/f7lfQF+je8fPoT8acH9v59s/b9f0rGj/8Kmz/v3O8P6bxr+7yaS+b8PkK3/u5Zsv3+5jurr3xwa4nj/sgL+75YG/iYV+neXoP/jubKl/8f9tab/tx35NkH5HyZd/bsD+W8F/OsD/LH+w337rbSPn23YvWWfpf8eVj+94vn+W2GGm/+mEf94BvlmQft7hGzjH6zXLf3fDaQb//gN8ucF9f8Y6cY/diJ/VsC/kWzjH4+Trv/3AvL/FZT/CdL3/14U8P8qwJ9Ftqnx/VPbpBH/2Ir8OUH7e5Js4x8cL7KMf2wiW//3abJ9//bX9En94/oJedY/HM/x8Nz+voG/SYX++aug/fNcydL/47Eqsf+rjv9eWrnIyX1Pf/0wwpg/rH7Q0L9/RL5b0P63kK7+/RPyvwn4nyFd//cPyF8W8P+GbPXPs2Tr/24lXf3zf8hfF9T/NtLVP68hf0XAv51s9c+OQPmXZvjxg5syfV9CmtoY93/prh+sk4b+/Qvy3wna/07S9X/fRP6GgP850vV//x/5nwX8z5Ot/uF4haX+2UW2/u+LpOv/vor8bcH9/y3Z+r8vkZ7/2+i/Krz/6L79bmj9o+H/vkUy//dlsvV/f0e2/u/v6ZPxD9d13EH/970G/iYV8Y8Dgv6P9ZKl/8t6QdP/3Yf8A0H5XyFd/fvPeEeQLP+rdOzs/8tbcmzZ/8RGN/f12Nj/l+ez/P6jy5dsso3rXyP+sTde9mTb326yjX/8kereO7Xwf/9EuvGPvyP/WFD/r5Fu/OND5P8Q8P+ZbOMfr5Ou/7sf+buC8v+F9P3fgwL+v1Lj/r/HSsqtjUYjle7HF8eOd/36pE78433kHwna39/INv7B8RrL+McbZOv/vkm2/u9b9En94/oJJNY/7yA/Df1GkwYms6nQP5Lyvx3otyz0D9eX5v7LrVCjLQX6Yw+p6h9x+d8lXf+vNcqeISj/e2Q7/+X5emL9Qbr772G3dQyr/8Lqz49Qgd/g75dmEK1xqMwOIevPQv/8nXT1TzPUW7bg+fsH6eqfLHA3F/C/T6r6x2sH7qYC/g9IV/+0BXemgH8f6fp/HcDdUcD/T9L1/1qAu42A/0Oynf/yXH0M6aTPu/8+eF04/2r4Rlv/axbmXitje+C67cDrEn/5mFT9TzH/ftLd/1bKf4CC/jdrPnbAeffh1Hz/8+Bh/GWx8a82dh1yNcLxp/Z45o7zXPf/9/Wf6xawQf+rS5roP540W+o/XivdPnAvGpEaHItJK/4YjVTVlFSXVUlnMumuP3e9sOth1qCux1vrT434z4m4CT0E/T/HSizjP5mebvznJJyvs6D8TTzb+A9rxUT8x0L/N/N09X83nO9kQf0393T1f0+cr7uAn/Wipv4/BefrKuBvGSj/6xl+/OmKTLf403Fkmxr1Zzj9qBH/6Y0yHy9of6083fhPX5zvVAF/a083/nMCztdLwJ/l2cZ/OFaViP9Y6P9sz1b/t/Vs9X87z1b/tw/wW8efVNZPu38+J/2/H7N362rWHxvf3PCHRz++bX0b4QcVNOI/fVAJ/ULGf1zfo83CHegE7pnAQMP4z5mC8rNfYbn++ThPd/3zUJwvR1D+jrr6zxuG850l4O+krP9Ox/n6C/g7G+s/nqt1OPT8pV7/dVHWf4NwvjME9d9VWf8Nx/kGC/i7ebbrX7sHyn8srJ/n+Rivnz/dYTDtRLapcf/nDG8kOAcI2v8Jnv7651EC/h7K+m8IzjdCwH+isf47ybNd/9rTs13/2suzXf96svfJ9a+ur4Dy/DfBPc5h/tu4fj7mXy0tLa9yOj7d9aOF/93b2P/meLnm+udzcL48Qf/fx9j/6qusfybyeCIofz9j/XOqsf91mrL+GY/zTRHUf/8A/5p3dn249am1a13r39q/7hVfP73Bc/OvjifbZK0fNPTvJNT7BEH7G6Dsf56L850t4B/o6a5/norzjRXwn67sf+XjfDME/IOU9U8uzjdZwD/YWP8MMfa/coz9r6EB/sb10+H8q7xIRXEkxP6pJXx8YUXNksraCpfjj4X9f6Ttb5ix/znc013/PA3nmx7S/xrpeP94/fNocC8CZhv5X4WebP+nEZ7t/sfsFST2vdfQf+fjfPMF93+ksv+1QFj/Zwb49+OYq5FfCVwFXANcB1wLXA98HfgacANwE3AjcDPVrRtvTOmdrONPYdNBhe+P8n68/P3Rtx2O72Jc/rD6USP+U4C6myXo/0YdhfjPhc7jr078p0TAf5Zy/GcOzvcFAf9oZf97Ic43V8A/xtj/Hqus/7+I850nKP84Zf1fhPNdJOA/W1n/z8P5LhDwjzfW/xMC+n8quLnOaxz5sxz4cwPz34JY7MF/BktTtP9xnqe3/2/Y+EEmeTneUG8YGaV037847PVb7D99jvL662Kh/pno2e4/PCnAPxXs3AO6sbutv5h8hPUHrkuog+sPlhjFH6LC+z/FOP7AfkFi31eN+EMFzlcuGH/PDd5/lfhlzdJIdbSk1mEYT/f1E2FTWP16L/nryXd6vq8hTRrxp0rh8zdNef3BUpyvVND+84+C/qwx1p8rBfzTlfVnGc53iYB/hrL+jOB8Fwv4Zxrrz1nK+rMa51ssKP95Af6uxv1fuq+fzqCmEyujpdWt8qLV5QNiP4r4w45fYef/GvGH5ShEraD9zVaOPyzD+aoE/AXG8Yc5xvEHjtUl3tu3iD/M82y/fzRfWX+uEM5/zjfWnwsC/Okev2hM4ZJF/GGhYvyRk5RfO6Uz/78AUEsBAhcLFAACAAgALBc6Ur4pvzFiFAAACCIBAAkACQAAAAAAAAAAAACAAAAAAFVJUGFja2FnZVVUBQAHIoUPYFBLBQYAAAAAAQABAEAAAACaFAAAAAA=
+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
 
 
 [Script]
-Dim screen_height,screen_width
+Global screen_height,screen_width
 
 //处理模式 process_model 1:创建群发送, 2:已有群名称发送,3:发送给单人
-Dim process_model
+Global process_model
 //EXCEL配置文件路径
-Dim excel_cfg_file
+Global excel_cfg_file
 //EXCEL配置文件的其实读取行，结束读取行，每人发送消息数量
-Dim read_line_num, start_read_line, send_msg_num
+Global read_line_num, start_read_line, send_msg_num
 //企业微信的发送快捷键 1, Enter发送，2 Ctrl+Enter发送
-Dim wework_send_shortcuts
+Global wework_send_shortcuts
 
-Dim group_users, group_name, send_msg, user_name
-send_msg = Array("", "", "", "")
+Global group_users, group_name, user_name
+
+Global send_msg_1,send_msg_2,send_msg_3
 
 Event WeWorkSendForm.button_openexcel.Click
 	excel_cfg_file = Plugin.File.SelectFile()
@@ -49,11 +50,11 @@ End Event
 Event WeWorkSendForm.button_send.Click
 	Dim cfg_error
 	excel_cfg_file = WeWorkSendForm.input_excel.Text
-    process_model = WeWorkSendForm.combo_model.ListIndex - 1
-	send_msg_num = WeWorkSendForm.combo_msgnum.ListIndex - 1
-	wework_send_shortcuts = WeWorkSendForm.combo_shortcut.ListIndex - 1
-	end_read_line = WeWorkSendForm.input_endline
-	start_read_line = WeWorkSendForm.input_startline
+    process_model = WeWorkSendForm.combo_model.ListIndex + 1
+	send_msg_num = WeWorkSendForm.combo_msgnum.ListIndex + 1
+	wework_send_shortcuts = WeWorkSendForm.combo_shortcut.ListIndex + 1
+	end_read_line = CInt(WeWorkSendForm.input_endline.Text)
+	start_read_line = CInt(WeWorkSendForm.input_startline.Text)
     CheckConfig (cfg_error)
 	If cfg_error = True Then 
 		Goto END_SEND
@@ -61,6 +62,7 @@ Event WeWorkSendForm.button_send.Click
 		Call ProcessAutoSendByModel()
 	End If
 	Rem END_SEND
+	TracePrint "Config error Got Event End"
 End Event
 
 Event WeWorkSendForm.button_stopscript.Click
@@ -68,7 +70,7 @@ Event WeWorkSendForm.button_stopscript.Click
 End Event
 
 Event WeWorkSendForm.button_help.Click
-	RunApp "www.baidu.com"
+	RunApp "https://docs.qq.com/doc/DRFhHUE1qc25RcnJl"
 End Event
 
 //窗口加载
@@ -83,6 +85,8 @@ Event WeWorkSendForm.Load
 	cfg_str = Plugin.File.ReadINI("EXCEL", "FILE", ".\AutoWeWorkSend.ini")
 	If Len(cfg_str) = 0 Then
 		excel_cfg_file = "D:\Test002.xlsx"
+	Else 
+		excel_cfg_file = cfg_str
 	End If
 	TracePrint "Process excel file :"&excel_cfg_file
 	cfg_str = Plugin.File.ReadINI("EXCEL", "MSG_NUM", ".\AutoWeWorkSend.ini")
@@ -91,6 +95,7 @@ Event WeWorkSendForm.Load
 	Else 
 		send_msg_num = CInt(cfg_str)
 	End If
+	TracePrint "Send message number  :"&send_msg_num&" cfg_str:"&cfg_str
 	cfg_str = Plugin.File.ReadINI("EXCEL", "START_LINE", ".\AutoWeWorkSend.ini")
 	If Len(cfg_str) = 0 Then
 		start_read_line = 2
@@ -125,8 +130,8 @@ Event WeWorkSendForm.Load
 	WeWorkSendForm.input_excel.Text = excel_cfg_file
     WeWorkSendForm.combo_model.ListIndex = process_model - 1
 	WeWorkSendForm.combo_msgnum.ListIndex = send_msg_num - 1
-	WeWorkSendForm.input_endline = end_read_line
-	WeWorkSendForm.input_startline = start_read_line
+	WeWorkSendForm.input_startline.Text = start_read_line
+	WeWorkSendForm.input_endline.Text = end_read_line
 	WeWorkSendForm.combo_shortcut.ListIndex = wework_send_shortcuts - 1
 	WeWorkSendForm.progress_send.Value = 0
 
@@ -140,7 +145,6 @@ Event WeWorkSendForm.UnLoad
     Call Plugin.File.WriteINI("EXCEL", "END_LINE", end_read_line, ".\AutoWeWorkSend.ini")
     Call Plugin.File.WriteINI("PROCESS", "MODEL", process_model, ".\AutoWeWorkSend.ini")
     Call Plugin.File.WriteINI("SHORTCUTS", "WEWORK_SEND", wework_send_shortcuts, ".\AutoWeWorkSend.ini")
-    MessageBox "脚本已经停止！"
 End Event
 
 Function ProcessAutoSendByModel()
@@ -157,6 +161,7 @@ Function ProcessAutoSendByModel()
 		TracePrint "process_model error must equal 1,2,3 :" & process_model
 		ExitScript
 	End If
+	MessageBox "消息发送执行结束，已经停止！"
 End Function
 
 Function ForegroundWeWorkWnd()
@@ -174,7 +179,7 @@ Function ForegroundWeWorkWnd()
 		MessageBox "无法激活企业微信窗口"
 		ExitScript
 	End If
-	
+		
 	Dim rect, rect_array
 	rect = Plugin.Window.GetClientRect(hwnd_qw_main)
 	rect_array = Split(rect, "|")
@@ -187,27 +192,27 @@ End Function
 Function CheckConfig(cfg_error)
 	cfg_error = False
 	//对配置进行各种检查
-	If send_msg_num > 3 And send_msg_num <= 0 Then 
-		TracePrint "send_msg_num(must <3):" & send_msg_num
+	TracePrint "send_msg_num(must <3):" & send_msg_num
+	If send_msg_num > 3 Or send_msg_num <= 0 Then 
 		MessageBox "一次给一个群发送的消息数量不熟练数量不能过大，1<number<3"
 		cfg_error = True
 		send_msg_num = 3
 	End If
+	TracePrint "read_line_num(must >0):" & read_line_num &" end_read_line" & end_read_line
 	If read_line_num <= 0 Or start_read_line <= 0 Or end_read_line <= 0 Then 
-		TracePrint "read_line_num(must >0):" & read_line_num &" end_read_line" & end_read_line
 		MessageBox "一次给一个群发送的消息数量不熟练数量不能过大，1<number<3"
 		cfg_error = True
 		start_read_line = 2
 		end_read_line = 2
 	End If
-	If process_model < 1 Or process_model > 2 Then 
-		TracePrint "process_model( eaqul 1,2):" & process_model
-		MessageBox "处理模式必须是( eaqul 1,2):" & process_model
+	TracePrint "process_model( eaqul 1,2,3):" & process_model
+	If process_model < 1 Or process_model > 3 Then 
+		MessageBox "处理模式必须是( eaqul 1,2,3):" & process_model
 		cfg_error = True
 		process_model = 2
 	End If
+	TracePrint "wework_send_shortcuts( eaqul 1,2):" & wework_send_shortcuts
 	If wework_send_shortcuts < 1 Or wework_send_shortcuts > 2 Then 
-		TracePrint "wework_send_shortcuts( eaqul 1,2):" & wework_send_shortcuts
 		MessageBox "发送快捷键配置必须是1 OR 2:" & wework_send_shortcuts
 		cfg_error = True
 		wework_send_shortcuts = 2
@@ -229,8 +234,8 @@ Function CreateGroupAndSendMsg()
     	Call EnterFindWnd()
     	Call FindGroupChatWnd(group_name)
 		Call BatchSendWeWorkMessage()
-    	WeWorkSendForm.progress_send.Value = 100 * read_num / read_line_num
     	read_num = read_num + 1
+    	WeWorkSendForm.progress_send.Value = 100 * read_num / read_line_num
 	Wend
 	Call Plugin.Office.CloseXls()
 End Function
@@ -246,8 +251,8 @@ Function FindGroupAndSendMsg()
     	Call EnterFindWnd()
     	Call FindGroupChatWnd(group_name)
 		Call BatchSendWeWorkMessage()
-		WeWorkSendForm.progress_send.Value = 100 * read_num / read_line_num
     	read_num = read_num + 1
+    	WeWorkSendForm.progress_send.Value = 100 * read_num / read_line_num
 	Wend
 	Call Plugin.Office.CloseXls()
 End Function
@@ -262,14 +267,13 @@ Function FindUserAndSendMsg()
     	Call EnterFindWnd()
     	Call FindGroupChatWnd(user_name)
 		Call BatchSendWeWorkMessage()
-		WeWorkSendForm.progress_send.Value = 100 * read_num / read_line_num
     	read_num = read_num + 1
+    	WeWorkSendForm.progress_send.Value = 100 * read_num / read_line_num
 	Wend
 	Call Plugin.Office.CloseXls()
 End Function
 
 Function ReadConfigFromExcel(line_num)
-	
 	Dim msg_read_col
 	If process_model = 1 Or process_model = 2 Then
     	group_users = Plugin.Office.ReadXls(1, line_num, 1)
@@ -287,15 +291,15 @@ Function ReadConfigFromExcel(line_num)
     End If	
     
 	If send_msg_num = 1 Then 
-		send_msg(0) = Plugin.Office.ReadXls(1, line_num, msg_read_col + 0)
+		send_msg_1 = Plugin.Office.ReadXls(1, line_num, msg_read_col + 0)
 	ElseIf send_msg_num = 2 Then 
-		send_msg(0) = Plugin.Office.ReadXls(1, line_num + read_num, msg_read_col + 0)
-		send_msg(1) = Plugin.Office.ReadXls(1, line_num + read_num, msg_read_col + 1)
+		send_msg_1 = Plugin.Office.ReadXls(1, line_num + read_num, msg_read_col + 0)
+		send_msg_2 = Plugin.Office.ReadXls(1, line_num + read_num, msg_read_col + 1)
 	// = 3
 	Else 
-		send_msg(0) = Plugin.Office.ReadXls(1, line_num, msg_read_col + 0)
-		send_msg(1) = Plugin.Office.ReadXls(1, line_num, msg_read_col + 1)
-		send_msg(2) = Plugin.Office.ReadXls(1, line_num, msg_read_col + 2)
+		send_msg_1 = Plugin.Office.ReadXls(1, line_num, msg_read_col + 0)
+		send_msg_2 = Plugin.Office.ReadXls(1, line_num, msg_read_col + 1)
+		send_msg_3 = Plugin.Office.ReadXls(1, line_num, msg_read_col + 2)
 	End If
 End Function
 
@@ -312,15 +316,15 @@ End Function
 //批量发送消息
 Function BatchSendWeWorkMessage()
 	If send_msg_num = 1 Then 
-		Call SendWeWorkMessage(send_msg(0))
+		Call SendWeWorkMessage(send_msg_1)
 	ElseIf send_msg_num = 2 Then 
-		Call SendWeWorkMessage(send_msg(0))
-		Call SendWeWorkMessage(send_msg(1))
+		Call SendWeWorkMessage(send_msg_1)
+		Call SendWeWorkMessage(send_msg_2)
 	// = 3
     Else 
-		Call SendWeWorkMessage(send_msg(0))
-		Call SendWeWorkMessage(send_msg(1))
-		Call SendWeWorkMessage(send_msg(2))
+		Call SendWeWorkMessage(send_msg_1)
+		Call SendWeWorkMessage(send_msg_2)
+		Call SendWeWorkMessage(send_msg_3)
 	End If
 End Function
 
